@@ -2,6 +2,8 @@
 
 A Python-based project that uses the **NEAT (NeuroEvolution of Augmenting Topologies)** algorithm to train AI agents to drive a car on a custom-drawn track. The project features a map editor, a real-time training visualizer, and a "Turing Test" mode where you can race against your best AI model.
 
+![NEAT Autonomous Racing Demo](assets/demo.gif)
+
 ## 🚀 Features
 
 -   **Map Editor**: Draw your own race tracks and set the starting position for the cars.
